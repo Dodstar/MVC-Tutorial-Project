@@ -1,0 +1,171 @@
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\MVCTutorial.dll.config
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\MVCTutorial.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\MVCTutorial.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Antlr3.Runtime.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\ASPSnippets.SmsAPI.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\AutoMapper.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\CommonServiceLocator.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\EntityFramework.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\EntityFramework.SqlServer.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\MVCTutorial.Business.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\MVCTutorial.Domain.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Newtonsoft.Json.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Owin.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.Helpers.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.Mvc.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.Optimization.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.Razor.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Abstractions.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Configuration.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Container.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Interception.Configuration.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Interception.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Mvc5.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.RegistrationByConvention.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.ServiceLocation.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\WebGrease.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\MVCTutorial.Business.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\MVCTutorial.Domain.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\AutoMapper.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\CommonServiceLocator.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.Helpers.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.Mvc.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.Razor.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\System.Web.Optimization.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Newtonsoft.Json.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Abstractions.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Configuration.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Container.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Interception.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.Interception.Configuration.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.RegistrationByConvention.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Unity.ServiceLocation.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Antlr3.Runtime.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\EntityFramework.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\EntityFramework.SqlServer.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.Resource.LanguageEn.resources
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.Resource.LanguageHindi.resources
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.csproj.GenerateResource.Cache
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\MVCTutorial.Repository.dll
+C:\Users\hp\documents\visual studio 2013\Projects\MVCTutorial\MVCTutorial\bin\MVCTutorial.Repository.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.dll.config
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Antlr3.Runtime.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\ASPSnippets.SmsAPI.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\AutoMapper.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\CommonServiceLocator.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\EntityFramework.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\EntityFramework.SqlServer.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.Business.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.Domain.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.Repository.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Newtonsoft.Json.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Owin.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.Helpers.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.Mvc.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.Optimization.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.Razor.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.Deployment.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.Razor.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Abstractions.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Configuration.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Container.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Interception.Configuration.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Interception.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Mvc5.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.RegistrationByConvention.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.ServiceLocation.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\WebGrease.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.Business.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.Domain.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.Repository.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\MVCTutorial.Repository.dll.config
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\AutoMapper.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\CommonServiceLocator.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.Helpers.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.Mvc.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.Razor.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.Deployment.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.WebPages.Razor.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\System.Web.Optimization.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Newtonsoft.Json.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Abstractions.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Configuration.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Container.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Interception.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.Interception.Configuration.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.RegistrationByConvention.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Unity.ServiceLocation.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Antlr3.Runtime.pdb
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\EntityFramework.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\EntityFramework.SqlServer.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.csprojAssemblyReference.cache
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.Resource.LanguageEn.resources
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.Resource.LanguageHindi.resources
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.csproj.GenerateResource.cache
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.csproj.CoreCompileInputs.cache
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.csproj.CopyComplete
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.dll
+C:\Users\andyd\source\Repository Pattern Project\Repository Pattern Project\MVCTutorial\MVCTutorial\obj\Debug\MVCTutorial.pdb

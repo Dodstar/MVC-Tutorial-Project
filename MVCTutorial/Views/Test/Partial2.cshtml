@@ -1,0 +1,80 @@
+﻿@model MVCTutorial.Models.EmployeeViewModel
+
+
+<style>
+    .error {
+        color: red;
+    }
+</style>
+
+
+<div>
+
+    <form id="myForm">
+        @Html.HiddenFor(m => m.EmployeeId)
+
+        @Html.DropDownListFor(model => model.DepartmentId, ViewBag.DepartmentList as SelectList, "--select--", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.DepartmentId, "", new { @class = "error" })
+
+        @Html.TextBoxFor(model => model.Forname, new { @class = "form-control", @placeholder = "Forname" })
+        @Html.ValidationMessageFor(model => model.Forname, "", new { @class = "error" })
+
+        @Html.TextBoxFor(model => model.MiddleName, new { @class = "form-control", @placeholder = "MiddleName" })
+        @Html.ValidationMessageFor(model => model.MiddleName, "", new { @class = "error" })
+
+        @Html.TextBoxFor(model => model.Surname, new { @class = "form-control", @placeholder = "Surname" })
+        @Html.ValidationMessageFor(model => model.Surname, "", new { @class = "error" })
+
+
+
+        <a href="#" id="btnSubmit" class="btn btn-success">
+            @if (Model.EmployeeId > 0)
+            {<span>Update</span> }
+            else
+            {<span>Save</span>}
+        </a>
+
+    </form>
+
+    <div style="text-align:center;display:none" id="loaderDiv">
+        <img src="~/Content/InternetSlowdown_Day.gif" width="100" />
+    </div>
+
+</div>
+
+<script>
+
+    $(document).ready(function () {
+
+        $("#btnSubmit").click(function () {
+
+            $("#loaderDiv").show();
+
+            var myformdata = $("#myForm").serialize();
+
+            $.ajax({
+
+                type: "POST",
+                url: "/Test/Index",
+                data: myformdata,
+                success: function () {
+                    $("#loaderDiv").hide();
+                    $("#myModal").modal("hide");
+                    window.location.href = "/Test/Index";
+
+                }
+
+            })
+        })
+
+    })
+
+
+</script>
+
+
+
+
+
+
+
