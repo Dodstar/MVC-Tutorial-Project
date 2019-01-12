@@ -1,44 +1,58 @@
 ﻿@{
-    ViewBag.Title = "Index";
+	ViewBag.Title = "Index";
 }
 
 
 <div class="col-md-3">
 
-    @{ Html.RenderAction("SideMenu", "Test");}
+	@{ Html.RenderAction("SideMenu", "Test");}
 
 </div>
 <div class="col-md-3">
 
-    <table class="table table-striped">
+	<table class="table table-striped">
 
-        <thead>
+		<thead>
             <tr>
                 <th>Forename </th>
                 <th>Middle Name</th>
                 <th>Surname</th>
-                <th>DepartmentName</th>
-                
+                <th>DegreeName</th>
+                <th>House Number</th>
+                <th>House Identifier</th>
+                <th>House Name</th>
+                <th>Street</th>
+                <th>City</th>
+                <th>Region</th>
+                <th>Postcode</th>
+
             </tr>
-        </thead>
-        <tbody>
-            @if (ViewBag.EmployeeList != null)
-            {
+		</thead>
+		<tbody>
+			@if (ViewBag.EmployeeList != null)
+			{
 
-                foreach (var item in ViewBag.EmployeeList)
-                {
-                    <tr>                    
-                        <td>@item.Forname</td>
-                        <td>@item.MiddleName</td>
-                        <td>@item.Surname</td>
-                        <td>@item.DepartmentName</td>
-                        
-                    </tr>
+				foreach (var item in ViewBag.EmployeeList)
+				{
+            <tr>
+                <td>@item.Forname</td>
+                <td>@item.MiddleName</td>
+                <td>@item.Surname</td>
+                <td>@item.DepartmentName</td>
+                <td>@item.HouseNumber</td>
+                <td>@item.HouseIdentifier</td>
+                <td>@item.HouseName</td>
+                <td>@item.Street</td>
+                <td>@item.City</td>
+                <td>@item.Region</td>
+                <td>@item.Postcode</td>
 
-                }
-            }
-        </tbody>
-    </table>
+            </tr>
+
+				}
+			}
+		</tbody>
+	</table>
 
 
 

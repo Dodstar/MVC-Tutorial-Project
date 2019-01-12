@@ -20,6 +20,7 @@
     <EntitySetMapping Name="Employees">
       <EntityTypeMapping TypeName="MVCTutorialModel.Employee">
         <MappingFragment StoreEntitySet="Employee">
+          <ScalarProperty Name="AddressId" ColumnName="AddressId" />
           <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
           <ScalarProperty Name="Surname" ColumnName="Surname" />
           <ScalarProperty Name="Forname" ColumnName="Forname" />
@@ -86,6 +87,20 @@
         <MappingFragment StoreEntitySet="UserRole">
           <ScalarProperty Name="RoleName" ColumnName="RoleName" />
           <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Addresses">
+      <EntityTypeMapping TypeName="MVCTutorialModel.Address">
+        <MappingFragment StoreEntitySet="Address">
+          <ScalarProperty Name="Postcode" ColumnName="Postcode" />
+          <ScalarProperty Name="Region" ColumnName="Region" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="HouseName" ColumnName="HouseName" />
+          <ScalarProperty Name="HouseIdentifier" ColumnName="HouseIdentifier" />
+          <ScalarProperty Name="HouseNumber" ColumnName="HouseNumber" />
+          <ScalarProperty Name="AddressId" ColumnName="AddressId" />
         </MappingFragment>
       </EntityTypeMapping>
     </EntitySetMapping>

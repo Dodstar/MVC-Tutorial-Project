@@ -1,5 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Schema Namespace="MVCTutorialModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Address">
+    <Key>
+      <PropertyRef Name="AddressId" />
+    </Key>
+    <Property Name="AddressId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HouseNumber" Type="int" />
+    <Property Name="HouseIdentifier" Type="nvarchar" MaxLength="50" />
+    <Property Name="HouseName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Street" Type="nvarchar" MaxLength="50" />
+    <Property Name="City" Type="nvarchar" MaxLength="50" />
+    <Property Name="Region" Type="nvarchar" MaxLength="50" />
+    <Property Name="Postcode" Type="nvarchar" MaxLength="50" />
+  </EntityType>
   <EntityType Name="Country">
     <Key>
       <PropertyRef Name="CountryId" />
@@ -24,6 +37,7 @@
     <Property Name="DepartmentId" Type="int" />
     <Property Name="MiddleName" Type="varchar" MaxLength="150" />
     <Property Name="IsDeleted" Type="bit" />
+    <Property Name="AddressId" Type="int" />
   </EntityType>
   <EntityType Name="ImageStore">
     <Key>
@@ -79,15 +93,15 @@
     <Property Name="RoleId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="RoleName" Type="nvarchar" MaxLength="50" />
   </EntityType>
-  <Association Name="FK_Employee_Department">
-    <End Role="Department" Type="Self.Department" Multiplicity="0..1" />
+  <Association Name="FK_Employee_Address">
+    <End Role="Address" Type="Self.Address" Multiplicity="0..1" />
     <End Role="Employee" Type="Self.Employee" Multiplicity="*" />
     <ReferentialConstraint>
-      <Principal Role="Department">
-        <PropertyRef Name="DepartmentId" />
+      <Principal Role="Address">
+        <PropertyRef Name="AddressId" />
       </Principal>
       <Dependent Role="Employee">
-        <PropertyRef Name="DepartmentId" />
+        <PropertyRef Name="AddressId" />
       </Dependent>
     </ReferentialConstraint>
   </Association>
@@ -140,6 +154,7 @@
     </ReferentialConstraint>
   </Association>
   <EntityContainer Name="MVCTutorialModelStoreContainer">
+    <EntitySet Name="Address" EntityType="Self.Address" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Country" EntityType="Self.Country" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />
@@ -149,8 +164,8 @@
     <EntitySet Name="SiteUser" EntityType="Self.SiteUser" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="State" EntityType="Self.State" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="UserRole" EntityType="Self.UserRole" Schema="dbo" store:Type="Tables" />
-    <AssociationSet Name="FK_Employee_Department" Association="Self.FK_Employee_Department">
-      <End Role="Department" EntitySet="Department" />
+    <AssociationSet Name="FK_Employee_Address" Association="Self.FK_Employee_Address">
+      <End Role="Address" EntitySet="Address" />
       <End Role="Employee" EntitySet="Employee" />
     </AssociationSet>
     <AssociationSet Name="FK_Product_ImageStore" Association="Self.FK_Product_ImageStore">

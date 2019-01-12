@@ -30,6 +30,11 @@
       <End Role="UserRole" EntitySet="UserRoles" />
       <End Role="SiteUser" EntitySet="SiteUsers" />
     </AssociationSet>
+    <EntitySet Name="Addresses" EntityType="MVCTutorialModel.Address" />
+    <AssociationSet Name="FK_Employee_Address" Association="MVCTutorialModel.FK_Employee_Address">
+      <End Role="Address" EntitySet="Addresses" />
+      <End Role="Employee" EntitySet="Employees" />
+    </AssociationSet>
   </EntityContainer>
   <EntityType Name="Country">
     <Key>
@@ -59,6 +64,8 @@
     <Property Name="Forname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="MiddleName" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+    <Property Name="AddressId" Type="Int32" />
+    <NavigationProperty Name="Address" Relationship="MVCTutorialModel.FK_Employee_Address" FromRole="Employee" ToRole="Address" />
   </EntityType>
   <EntityType Name="ImageStore">
     <Key>
@@ -177,6 +184,32 @@
       </Principal>
       <Dependent Role="SiteUser">
         <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="Address">
+    <Key>
+      <PropertyRef Name="AddressId" />
+    </Key>
+    <Property Name="AddressId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HouseNumber" Type="Int32" />
+    <Property Name="HouseIdentifier" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="HouseName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Street" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Region" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Postcode" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Employees" Relationship="MVCTutorialModel.FK_Employee_Address" FromRole="Address" ToRole="Employee" />
+  </EntityType>
+  <Association Name="FK_Employee_Address">
+    <End Type="MVCTutorialModel.Address" Role="Address" Multiplicity="0..1" />
+    <End Type="MVCTutorialModel.Employee" Role="Employee" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Address">
+        <PropertyRef Name="AddressId" />
+      </Principal>
+      <Dependent Role="Employee">
+        <PropertyRef Name="AddressId" />
       </Dependent>
     </ReferentialConstraint>
   </Association>

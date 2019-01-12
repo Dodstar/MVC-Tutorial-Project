@@ -22,6 +22,7 @@ namespace MVCTutorial.Business
             unitOfWork = _unitOfWork;
             empRepository = new EmployeeRepository(unitOfWork);
             deptRepository = new AddressRepository(unitOfWork);
+            
         }
       
 
@@ -47,7 +48,15 @@ namespace MVCTutorial.Business
                                     MiddleName = x.MiddleName,
                                     Surname = x.Surname,
                                     EmployeeId = x.EmployeeId,
-                                    DepartmentName = x.Department.DepartmentName                                    
+                                    DepartmentName = x.Department.DepartmentName,
+                                    HouseNumber = x.Address.HouseNumber,
+                                    HouseIdentifier=x.Address.HouseIdentifier,
+                                    HouseName=x.Address.HouseName,
+                                    Street=x.Address.Street,
+                                    City=x.Address.City,
+                                    Region=x.Address.Region,
+                                    Postcode=x.Address.Postcode
+                                    
                                 }).ToList();
 
 
